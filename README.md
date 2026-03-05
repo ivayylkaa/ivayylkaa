@@ -20,13 +20,13 @@ Right now I'm focused on strengthening my front-end skills, building real projec
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> Currently learning: **TypeScript**
+> Currently learning: **TypeScript** and improving **JS**
 
 ---
 
 ## 🎯 Current Goals
 
-- [ ] Sharpen my JavaScript & problem-solving skills
+- [✔️] Sharpen my JavaScript & problem-solving skills
 - [ ] Build and publish real front-end projects on GitHub
 - [ ] Learn modern front-end tools and best practices
 - [ ] Land my first **Front-End internship**
