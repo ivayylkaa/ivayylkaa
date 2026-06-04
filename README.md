@@ -13,7 +13,7 @@ Actively looking for my first internship in software development.
 
 ## 🛠️ Technologies & Skills
 
-**Languages:** JavaScript, Java, SQL, HTML, CSS
+**Languages:** JavaScript, SQL, HTML, CSS
 
 **Concepts:** OOP, Algorithms, Relational Databases
 
